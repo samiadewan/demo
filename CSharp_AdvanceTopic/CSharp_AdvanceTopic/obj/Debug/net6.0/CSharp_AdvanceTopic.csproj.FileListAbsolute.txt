@@ -1,0 +1,15 @@
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\bin\Debug\net6.0\CSharp_AdvanceTopic.exe
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\bin\Debug\net6.0\CSharp_AdvanceTopic.deps.json
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\bin\Debug\net6.0\CSharp_AdvanceTopic.runtimeconfig.json
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\bin\Debug\net6.0\CSharp_AdvanceTopic.dll
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\bin\Debug\net6.0\CSharp_AdvanceTopic.pdb
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\obj\Debug\net6.0\CSharp_AdvanceTopic.csproj.AssemblyReference.cache
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\obj\Debug\net6.0\CSharp_AdvanceTopic.GeneratedMSBuildEditorConfig.editorconfig
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\obj\Debug\net6.0\CSharp_AdvanceTopic.AssemblyInfoInputs.cache
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\obj\Debug\net6.0\CSharp_AdvanceTopic.AssemblyInfo.cs
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\obj\Debug\net6.0\CSharp_AdvanceTopic.csproj.CoreCompileInputs.cache
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\obj\Debug\net6.0\CSharp_AdvanceTopic.dll
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\obj\Debug\net6.0\refint\CSharp_AdvanceTopic.dll
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\obj\Debug\net6.0\CSharp_AdvanceTopic.pdb
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\obj\Debug\net6.0\CSharp_AdvanceTopic.genruntimeconfig.cache
+C:\bs_trainee\CSharp_AdvanceTopic\CSharp_AdvanceTopic\obj\Debug\net6.0\ref\CSharp_AdvanceTopic.dll

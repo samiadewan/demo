@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XGr5qvSFzGzGdkvMxRNZDnMl2Wf7ENP8V4LlqO4mRKtyKnTfatqfNXxzF2KwtNqxcCulRRF1L6zQPCC4evQkkg==",
+  "success": true,
+  "projectFilePath": "C:\\bs_trainee\\CSharp_AdvanceTopic\\CSharp_AdvanceTopic\\CSharp_AdvanceTopic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BS1091\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
